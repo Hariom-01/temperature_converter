@@ -1,0 +1,51 @@
+body{
+    margin-top: 60px;
+    text-align:center;
+ background-color: aqua;
+  }
+  
+  h1 {
+    padding-bottom: 0.5rem;
+    color: red;
+  }
+  
+  input[type=number] {
+    cursor: pointer;
+  }
+  
+  #input-celcius{
+    background-color: #5260dd;
+    font-size: 2.5rem;
+  }
+  
+  #input-fahrenheit{
+    background-color: #c51682;
+    font-size: 2.5rem;
+  }
+  
+  #input-kelvin{
+    background-color: #c5d942;
+    font-size: 2.5rem;
+  }
+  
+ 
+  
+  ::-webkit-input-placeholder {
+    color: #FFFFFF !important;
+  }
+  ::-moz-placeholder {
+    color: #FFFFFF !important;
+  }
+  :-ms-input-placeholder {
+    color: #FFFFFF !important;
+  }
+  :-moz-placeholder {
+    color: #FFFFFF !important;
+  }
+  
+  
+  
+  .icons{
+    max-width: 25px;
+    height: auto;
+  }
